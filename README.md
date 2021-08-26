@@ -45,9 +45,9 @@ Besides professional life I also like playing outdoor games like 🏏 *Cricket*,
 <img alt="reactJS" align="left" height="32" src="https://img.shields.io/badge/-NPM-red?logo=npm&logoColor=white&style=flat" />
 <br></br>
 <img alt="reactJS" align="left" height="32" src="https://img.shields.io/badge/-Git-critical?logo=git&logoColor=white&style=flat" />
-<br></br>
+
 <img alt="reactJS" align="left" height="32" src="https://img.shields.io/badge/Firebase-yellow?logo=firebase&logoColor=white&style=flat" />
-<br></br>
+
 <img alt="reactJS" align="left" height="32" src="https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&logoColor=white&style=flat" />
 
 
