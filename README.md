@@ -31,7 +31,7 @@ Hi! My name is *Nikhil Gupta* and I am into 💻 *frontend development* as of no
 🎓 I have bachelor's degree in *Computer Science & Engineering*. I did my graduation from NMIT, Bangalore.
 <br />
 <br />
-Besides professional life I also like playing outdoor games like 🏏 *Cricket*, 🏸 *Badminton*. I also like watching 🍿 *Movies*, *TV Series* & <br/> 🎮 *playing Video Games!*
+Besides professional life I also like playing outdoor games like 🏏 *Cricket*, 🏸 *Badminton*. I also like watching 🍿 *Movies*, *TV Series* &  🎮 *playing Video Games!*
 <br />
 <br />
 
@@ -43,7 +43,9 @@ Besides professional life I also like playing outdoor games like 🏏 *Cricket*,
 <img alt="reactJS" align="left" height="32" src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat" />
 <img alt="reactJS" align="left" height="32" src="https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white&style=flat" />
 <img alt="reactJS" align="left" height="32" src="https://img.shields.io/badge/-NPM-red?logo=npm&logoColor=white&style=flat" />
+<br></br>
 <img alt="reactJS" align="left" height="32" src="https://img.shields.io/badge/-Git-critical?logo=git&logoColor=white&style=flat" />
+<br></br>
 <img alt="reactJS" align="left" height="32" src="https://img.shields.io/badge/Firebase-yellow?logo=firebase&logoColor=white&style=flat" />
 <br></br>
 <img alt="reactJS" align="left" height="32" src="https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&logoColor=white&style=flat" />
