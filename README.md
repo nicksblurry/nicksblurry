@@ -18,8 +18,6 @@ ________________________________________________________________________________
 <br />
 - 🌎 Currently reside in Bangalore
 <br />
-- 🌱 I’m currently learning Full Stack Development
-<br />
 <br />
 
 
